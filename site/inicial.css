@@ -1,0 +1,29 @@
+#imgnav{
+    width: 4rem;
+    margin: 0.75rem;
+}
+#btnlogin{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 2rem;
+    width: 4.6rem;
+    height: 2.5rem;
+    color: white;
+    background-color: blue;
+    font-size: larger;
+    border: solid 0.1rem;
+    border-color: blue;
+    text-align: center;
+    }
+    
+#btnlogin:hover{
+    text-decoration: underline;
+}
+.nav{
+    width: 100%;
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0%;
+}
