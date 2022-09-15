@@ -1,0 +1,27 @@
+#card{
+    height: 25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-flow: wrap;
+}
+
+#sigle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 30%;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 5px;
+}
+
+
+
+#img-size{
+    width: 200px;
+    height: 200px;
+}
