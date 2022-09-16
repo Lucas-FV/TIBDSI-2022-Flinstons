@@ -209,8 +209,11 @@ body{
     cursor: pointer;
     background-color: #03e9f4;
     margin-left: 50rem;
+
 }
 .dropdown{
+    padding: 0px;
+
     position: absolute;
     width: 200px;
 }

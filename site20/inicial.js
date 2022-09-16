@@ -1,6 +1,5 @@
 window.onload = () => {
-
-  main();
+  main('perfume');
 };
 
 function get(url) {
@@ -10,20 +9,30 @@ function get(url) {
   return request.responseText;
 }
 
-function main() {
+function getCategoria(catName) {
+  main(catName)
+}
+
+function main(initial) {
   const card = document.getElementById("row");
 
-  data = get("http://localhost:3001/perfume");
-  telefones = JSON.parse(data);
-  console.log(telefones);
+  Baseurl = 'http://localhost:3001/'
+  data = get(Baseurl + initial);
+
+
+  catItem = JSON.parse(data);
+
+
   card.innerHTML = "";
 
-  telefones.forEach((element) => {
+  catItem.forEach((element) => {
     let modelo = element.modelo;
     let preco = element.preco;
     let img = element.img;
     let link = element.link;
     let desc = element.desc;
+    let menor = 0;
+   
 
     var f = preco.toLocaleString('pt-br',{style: 'currency', currency: 'BRL'});
     container = `
