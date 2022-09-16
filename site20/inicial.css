@@ -196,6 +196,7 @@ body{
 .dropdown-menu ul{
     list-style: none;
     font-size: 1rem;
+    padding: 0px;
 }
 .dropdown-menu{
     position: relative;
@@ -209,7 +210,6 @@ body{
     cursor: pointer;
     background-color: #03e9f4;
     margin-left: 50rem;
-
 }
 .dropdown{
     padding: 0px;
