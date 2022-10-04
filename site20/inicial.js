@@ -10,6 +10,7 @@ function get(url) {
 }
 
 function getCategoria(catName) {
+  document.getElementById('dw-menu').textContent = catName;
   main(catName)
 }
 
