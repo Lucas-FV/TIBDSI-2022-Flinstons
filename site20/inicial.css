@@ -176,20 +176,35 @@ body{
     color: #03e9f4;
 }
 
-/* .blue {
-    border-left: 3px solid #03e9f4;
-    border-right: 3px solid #03e9f4;
-} */
+
    
-.green {
-    border-left: 3px solid #03e9f4;
-    border-right: 3px solid #03e9f4;
+.card {
+    border-radius: .5rem;
+    border: 2px solid #03e9f4;
+    width: 20%;
+    margin-right: 2rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    
 }
-   
-/* .red {
-    border-left: 3px solid #03e9f4;
-    border-right: 3px solid #03e9f4;
-} */
+h2{
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    color: white;
+    font-size: 30px;
+}
+p{
+    font-size: 24px;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    color: white;
+}
+a{
+    margin-top: 4rem;
+    margin-left: 1rem;
+}
 #card{
     height: 15rem;
 }

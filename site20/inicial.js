@@ -1,5 +1,5 @@
 window.onload = () => {
-  main('perfume');
+  main('Perfume');
 };
 
 function get(url) {
@@ -37,12 +37,12 @@ function main(initial) {
 
     var f = preco.toLocaleString('pt-br',{style: 'currency', currency: 'BRL'});
     container = `
-
-    <div class="cardI green" id="card">
+    
+    <div class="card green" id="card">
         <img class="image" src="${img}" alt="money" />
         <h2>${modelo}</h2>
         <p>${f}</p>
-        <a class="loja" href="${link}"> Acesso a loja </a>
+        <a class="loja" href="${link}" target="_blank"> Acesso a loja </a>
 
     </div>
 
