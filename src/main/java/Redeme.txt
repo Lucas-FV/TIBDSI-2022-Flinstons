@@ -1,0 +1,7 @@
+   A Pasta FlinstonsBE, possui todo um backend feito em .net 
+dividido na arquitetura DDD o mesmo possui classe de conxão nomeada de BackEndDataContext.
+Alem disso possui as classes de DAO, nomeadas de controllers e tambem as classes de DTO que
+por sua ves são arquivos com o sufixo DataTransfer.
+
+  A Pasta backend possui uma API feita em node, pode ser visualisada no arquivo bd.json.
+para executar basta rodar no CMD o comando 'npm start'

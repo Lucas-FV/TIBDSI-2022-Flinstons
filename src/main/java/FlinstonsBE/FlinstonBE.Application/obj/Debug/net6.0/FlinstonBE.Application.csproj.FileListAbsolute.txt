@@ -1,0 +1,17 @@
+E:\projects\FlinstonsBE\FlinstonBE.Application\bin\Debug\net6.0\FlinstonBE.Application.deps.json
+E:\projects\FlinstonsBE\FlinstonBE.Application\bin\Debug\net6.0\FlinstonBE.Application.runtimeconfig.json
+E:\projects\FlinstonsBE\FlinstonBE.Application\bin\Debug\net6.0\FlinstonBE.Application.dll
+E:\projects\FlinstonsBE\FlinstonBE.Application\bin\Debug\net6.0\FlinstonBE.Application.pdb
+E:\projects\FlinstonsBE\FlinstonBE.Application\obj\Debug\net6.0\FlinstonBE.Application.csproj.AssemblyReference.cache
+E:\projects\FlinstonsBE\FlinstonBE.Application\obj\Debug\net6.0\FlinstonBE.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\FlinstonsBE\FlinstonBE.Application\obj\Debug\net6.0\FlinstonBE.Application.AssemblyInfoInputs.cache
+E:\projects\FlinstonsBE\FlinstonBE.Application\obj\Debug\net6.0\FlinstonBE.Application.AssemblyInfo.cs
+E:\projects\FlinstonsBE\FlinstonBE.Application\obj\Debug\net6.0\FlinstonBE.Application.csproj.CoreCompileInputs.cache
+E:\projects\FlinstonsBE\FlinstonBE.Application\obj\Debug\net6.0\FlinstonBE.Application.dll
+E:\projects\FlinstonsBE\FlinstonBE.Application\obj\Debug\net6.0\refint\FlinstonBE.Application.dll
+E:\projects\FlinstonsBE\FlinstonBE.Application\obj\Debug\net6.0\FlinstonBE.Application.pdb
+E:\projects\FlinstonsBE\FlinstonBE.Application\obj\Debug\net6.0\FlinstonBE.Application.genruntimeconfig.cache
+E:\projects\FlinstonsBE\FlinstonBE.Application\obj\Debug\net6.0\ref\FlinstonBE.Application.dll
+E:\projects\FlinstonsBE\FlinstonBE.Application\bin\Debug\net6.0\FlinstonsBE.Domain.dll
+E:\projects\FlinstonsBE\FlinstonBE.Application\bin\Debug\net6.0\FlinstonsBE.Domain.pdb
+E:\projects\FlinstonsBE\FlinstonBE.Application\obj\Debug\net6.0\FlinstonBE.Application.csproj.CopyComplete
