@@ -39,8 +39,8 @@ function main(initial) {
     container = `
     
     <div class="card green" id="card">
-        <img class="image" src="${img}" alt="money" />
-        <h2>${modelo}</h2>
+        <img class="image" src="${img}" alt="money" width"120" height"120"/>
+        <h4>${modelo}</h4>
         <p>${f}</p>
         <a class="loja" href="${link}" target="_blank"> Acesso a loja </a>
 
